@@ -1,0 +1,43 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	http
+#open	2026-09-01-00-00-30
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+#types	time	string	addr	port	addr	port	count	string	string	string	string	string	string	string	count	count	count	string	count	string	set[enum]	string	string	set[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]	vector[string]
+1788234735.190089	CUMSAQ3GmkwN4kwUXj	172.17.0.1	54238	172.17.0.2	80	1	GET	-	/	-	1.1	-	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.047300	CXli1F2CO0NspkUJU5	172.17.0.1	54270	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.047541	C4TvqX28OEkEUay2kj	172.17.0.1	54272	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.045103	CyYHGjfwxxssHkUl6	172.17.0.1	54242	172.17.0.2	80	1	GET	172.17.0.2	/.git/HEAD	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	283	404	Not Found	-	-	(empty)	-	-	-	-	-	-	Ftf2NwuJdpJ8i0L7d	-	text/html
+1788234737.047164	CwmlJX2rDwqy3X38vi	172.17.0.1	54266	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.046928	Cv65XgOFyzF3I2tFl	172.17.0.1	54248	172.17.0.2	80	1	GET	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.047644	CdUwf42w6MzaYLVPGf	172.17.0.1	54288	172.17.0.2	80	1	GET	172.17.0.2	/robots.txt	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	26	200	OK	-	-	(empty)	-	-	-	-	-	-	FmjK2t4LxnhWqXrlol	-	text/plain
+1788234737.047041	C65oBtBdzlqOaPR76	172.17.0.1	54252	172.17.0.2	80	1	PROPFIND	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.047694	CMzRwJ2vByOrLZgi3j	172.17.0.1	54302	172.17.0.2	80	1	GET	-	/	-	1.1	-	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.047788	CGpDQV31F57YxCFgPc	172.17.0.1	54314	172.17.0.2	80	1	POST	172.17.0.2	/sdk	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	441	277	404	Not Found	-	-	(empty)	-	-	-	FMzXM51Oy1th1e0vw2	-	application/soap+xml	F5VC4l47dREj2BbYLa	-	text/html
+1788234737.047728	CLwzh91tKtAK8rH454	172.17.0.1	54306	172.17.0.2	80	1	POST	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	88	0	302	Found	-	-	(empty)	-	-	-	Fih2h34duk5mgDxJY5	-	text/plain	-	-	-
+1788234737.047861	Cg35bG1Z25FjNRCHEk	172.17.0.1	54318	172.17.0.2	80	1	PROPFIND	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.048193	CaYdWf4bw094ERVowb	172.17.0.1	54322	172.17.0.2	80	1	GET	172.17.0.2	/nmaplowercheck1788234737	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	298	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FYsx6T1nAySuGFu1Z3	-	text/html
+1788234737.201063	CvQPO53266NFIfBObh	172.17.0.1	54354	172.17.0.2	80	1	JLKZ	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.204996	CF9fs93uQL8Rxv1vgb	172.17.0.1	54370	172.17.0.2	80	1	PROPFIND	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.203908	CNz8Yvfu05KVc8Pi2	172.17.0.1	54368	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.269236	C0ApUL1p7NdguuG0l7	172.17.0.1	54374	172.17.0.2	80	1	GET	172.17.0.2	/evox/about	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	284	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FlKf802tCyu1qZtIRh	-	text/html
+1788234737.319909	CVwlf83WU2FwRC77A7	172.17.0.1	54382	172.17.0.2	80	1	GET	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.321269	CuM0Gd7fVAnlxqM6k	172.17.0.1	54396	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.322141	CAZXor4X4fy1WjA5Z4	172.17.0.1	54410	172.17.0.2	80	1	GET	172.17.0.2	/HNAP1	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	279	404	Not Found	-	-	(empty)	-	-	-	-	-	-	FgLtmR2YoywdE9h18b	-	text/html
+1788234737.200730	CeML4m1DQb5SeUaTJa	172.17.0.1	54338	172.17.0.2	80	1	GET	172.17.0.2	/login.php	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	1523	200	OK	-	-	(empty)	-	-	-	-	-	-	FWdyfq19QHwIyr1wj9	-	text/html
+1788234737.354057	CDGSb4IfaVSjO5WPd	172.17.0.1	54426	172.17.0.2	80	1	HEAD	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.355170	CuZpWraIRAchzXVEj	172.17.0.1	54428	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.365081	CeQHeO36HGT7CaVU52	172.17.0.1	54432	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.368235	Ct11rt3vHnt9hQF4U4	172.17.0.1	54444	172.17.0.2	80	1	POST	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.369336	CGxcZA3WnwpurB37kk	172.17.0.1	54454	172.17.0.2	80	1	GET	172.17.0.2	/favicon.ico	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	1406	200	OK	-	-	(empty)	-	-	-	-	-	-	FgvYyz48D2UijcJ7n9	-	image/x-icon
+1788234737.377779	CNECSnsg2tOfcE2Zg	172.17.0.1	54470	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.380446	CeuDZP3bWc9v2vrmW3	172.17.0.1	54480	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.384860	Cog0qm6lM5IYJEzw	172.17.0.1	54482	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.392960	CGonqF1nhnspY3UlNe	172.17.0.1	54496	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.398525	CNb98z4ManfOePsBP3	172.17.0.1	54508	172.17.0.2	80	1	OPTIONS	172.17.0.2	/	-	1.1	Mozilla/5.0 (compatible; Nmap Scripting Engine; https://nmap.org/book/nse.html)	example.com	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.407595	CCDHp74i9Jkp28EJK1	172.17.0.1	54514	172.17.0.2	80	1	GET	-	/	-	1.1	-	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234737.411576	CR03tf2fS5KAdEO5sh	172.17.0.1	54522	172.17.0.2	80	1	GET	172.17.0.2	/	-	1.1	-	-	0	0	302	Found	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1788234810.967929	CZ8eoImLlVgm47nGg	172.17.0.1	33670	172.17.0.2	80	1	GET	172.17.0.2	/login.php	-	1.1	curl/8.20.0	-	0	1523	200	OK	-	-	(empty)	-	-	-	-	-	-	F7VY6E355lG1lCork6	-	text/html
+#close	2026-09-01-00-00-30

@@ -1,0 +1,47 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-08-31-23-52-08
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1788234728.807289	CXlCyA1fjX1N1DAba9	172.17.0.1	57352	172.17.0.2	80	bad_TCP_checksum	-	F	zeek	TCP
+1788234729.183911	C9MJutLpyB6QcIH6a	172.17.0.1	54238	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234736.504664	C2dRx12ZdpXkyBXe7g	172.17.0.1	44667	172.17.0.2	80	baroque_SYN	-	F	zeek	TCP
+1788234736.658454	C2dRx12ZdpXkyBXe7g	172.17.0.1	44667	172.17.0.2	80	premature_connection_reuse	-	F	zeek	TCP
+1788234737.031254	CjanJ1WXLxcmUHmEa	172.17.0.1	54242	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.031819	COpkIx1wP7bN7ZtSGk	172.17.0.1	54248	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.032021	Cv51rb4xa9CryPY7K8	172.17.0.1	54252	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.033224	C2P1df2ShitFqLsvxe	172.17.0.1	54266	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.035764	C2DN9vz8IkChLThVk	172.17.0.1	54270	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.036040	CGFTdX1bfshiH7OYG1	172.17.0.1	54272	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.038623	CjWvZf3LKRH9HyYVZe	172.17.0.1	54288	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.038786	CK3vZk4nfi4e5NHgHe	172.17.0.1	54302	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.038977	CgvtJD2dGuzGPyzI7j	172.17.0.1	54306	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.039571	CET4dJ3msmvDcx2LYd	172.17.0.1	54314	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.040140	CzDMqV33QgQ1NlpQ7e	172.17.0.1	54318	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.041074	CYqEqZ1IGn1wTFR69g	172.17.0.1	54322	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.047255	CtkCsH3flRS9mJaTz6	172.17.0.1	59270	172.17.0.2	1434	bad_UDP_checksum	-	F	zeek	UDP
+1788234737.129749	Cbo9eIGtru24B4Npd	172.17.0.1	54338	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.134093	CV28Xx1CuaTuF8pgBi	172.17.0.1	54354	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.135440	CjSAODKnLY8qCv091	172.17.0.1	54368	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.135935	CmngmE46uLEzJGhNG6	172.17.0.1	54370	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.210441	CYhb572bSCFkZ3iJjc	172.17.0.1	54374	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.264970	CvCHXo1chesZx6SHye	172.17.0.1	54382	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.268037	CxiGIP2yo931et7MW5	172.17.0.1	54396	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.268864	Ckbw3F11jksn3n4Na5	172.17.0.1	54410	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.349885	CAznTM1YxsLA1ImBK3	172.17.0.1	54426	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.352261	C0fAud2wLl3q2xYGj	172.17.0.1	54428	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.360110	CfmLiz2EYwjoxkzfbj	172.17.0.1	54432	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.361738	CdJ7B84JIAG81R04Wf	172.17.0.1	54444	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.363263	CVb8da1xyCreUtXht4	172.17.0.1	54454	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.371491	CIqPue47CTOcaj9a3	172.17.0.1	54470	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.375177	C8S3kZ1GXHCw8k61ef	172.17.0.1	54480	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.382782	C4dHP611NCxpcaWeAg	172.17.0.1	54482	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.390158	CeDI153jccVej6M4I3	172.17.0.1	54496	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.397703	CeG53l4G7fWVjHn5B3	172.17.0.1	54508	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.406401	Cx0b673LX4ESfHEgZ5	172.17.0.1	54514	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234737.410264	ClkGqGOOIHYMOqKVe	172.17.0.1	54522	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+1788234810.967778	CBAQLT25bBpmdQz102	172.17.0.1	33670	172.17.0.2	80	active_connection_reuse	-	F	zeek	TCP
+#close	2026-08-31-23-54-43

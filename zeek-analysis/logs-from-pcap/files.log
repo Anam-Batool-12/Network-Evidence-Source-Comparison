@@ -1,0 +1,20 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-09-01-00-00-30
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1788234737.047728	Fih2h34duk5mgDxJY5	CLwzh91tKtAK8rH454	172.17.0.1	54306	172.17.0.2	80	HTTP	0	(empty)	text/plain	-	0.000000	T	T	88	88	0	0	F	-	-	-	-	-	-	-
+1788234737.047788	FMzXM51Oy1th1e0vw2	CGpDQV31F57YxCFgPc	172.17.0.1	54314	172.17.0.2	80	HTTP	0	(empty)	application/soap+xml	-	0.000000	T	T	441	441	0	0	F	-	-	-	-	-	-	-
+1788234737.070052	Ftf2NwuJdpJ8i0L7d	CyYHGjfwxxssHkUl6	172.17.0.1	54242	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	283	283	0	0	F	-	-	-	-	-	-	-
+1788234737.118804	FmjK2t4LxnhWqXrlol	CdUwf42w6MzaYLVPGf	172.17.0.1	54288	172.17.0.2	80	HTTP	0	(empty)	text/plain	-	0.000000	T	F	26	26	0	0	F	-	-	-	-	-	-	-
+1788234737.135077	F5VC4l47dREj2BbYLa	CGpDQV31F57YxCFgPc	172.17.0.1	54314	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	277	277	0	0	F	-	-	-	-	-	-	-
+1788234737.188319	FYsx6T1nAySuGFu1Z3	CaYdWf4bw094ERVowb	172.17.0.1	54322	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	298	298	0	0	F	-	-	-	-	-	-	-
+1788234737.269616	FlKf802tCyu1qZtIRh	C0ApUL1p7NdguuG0l7	172.17.0.1	54374	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	284	284	0	0	F	-	-	-	-	-	-	-
+1788234737.322516	FgLtmR2YoywdE9h18b	CAZXor4X4fy1WjA5Z4	172.17.0.1	54410	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	279	279	0	0	F	-	-	-	-	-	-	-
+1788234737.340994	FWdyfq19QHwIyr1wj9	CeML4m1DQb5SeUaTJa	172.17.0.1	54338	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	1523	1523	0	0	F	-	-	-	-	-	-	-
+1788234737.372823	FgvYyz48D2UijcJ7n9	CGxcZA3WnwpurB37kk	172.17.0.1	54454	172.17.0.2	80	HTTP	0	(empty)	image/x-icon	-	0.000000	T	F	1406	1406	0	0	F	-	-	-	-	-	-	-
+1788234810.987564	F7VY6E355lG1lCork6	CZ8eoImLlVgm47nGg	172.17.0.1	33670	172.17.0.2	80	HTTP	0	(empty)	text/html	-	0.000000	T	F	1523	1523	0	0	F	-	-	-	-	-	-	-
+#close	2026-09-01-00-00-30

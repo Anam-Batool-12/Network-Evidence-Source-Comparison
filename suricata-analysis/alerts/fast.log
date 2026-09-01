@@ -1,0 +1,130 @@
+08/31/2026-23:52:08.802871  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:113
+08/31/2026-23:52:08.809429  [**] [1:9000010:1] CUSTOM Possible Port Scan (many ports, single source) [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3971
+08/31/2026-23:52:08.810429  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:27356
+08/31/2026-23:52:08.820290  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:306
+08/31/2026-23:52:08.822215  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:83
+08/31/2026-23:52:08.822963  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:33
+08/31/2026-23:52:08.823926  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:2041
+08/31/2026-23:52:08.810271  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1166
+08/31/2026-23:52:08.826573  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:9500
+08/31/2026-23:52:08.827476  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:16993
+08/31/2026-23:52:08.829174  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:2022
+08/31/2026-23:52:08.815366  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:4111
+08/31/2026-23:52:08.820057  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1088
+08/31/2026-23:52:08.820315  [**] [1:9000001:1] CUSTOM DoS SYN Flood Detected [**] [Classification: Attempted Denial of Service] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:5225
+08/31/2026-23:52:08.822616  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1033
+08/31/2026-23:52:08.833734  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:9010
+08/31/2026-23:52:08.834645  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:563
+08/31/2026-23:52:08.835078  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1032
+08/31/2026-23:52:08.826155  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3351
+08/31/2026-23:52:08.827109  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1002
+08/31/2026-23:52:08.836865  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1700
+08/31/2026-23:52:08.809456  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:85
+08/31/2026-23:52:08.809992  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:10009
+08/31/2026-23:52:08.838342  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1138
+08/31/2026-23:52:08.810398  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3006
+08/31/2026-23:52:08.838597  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:902
+08/31/2026-23:52:08.816659  [**] [1:3400001:1] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:514
+08/31/2026-23:52:08.829140  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:58080
+08/31/2026-23:52:08.818264  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:16012
+08/31/2026-23:52:08.839665  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3737
+08/31/2026-23:52:08.840061  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:4899
+08/31/2026-23:52:08.843471  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:7201
+08/31/2026-23:52:08.843614  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1067
+08/31/2026-23:52:08.852893  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:500
+08/31/2026-23:52:08.833693  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:416
+08/31/2026-23:52:08.826624  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:38292
+08/31/2026-23:52:08.899059  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:417
+08/31/2026-23:52:08.826991  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:9110
+08/31/2026-23:52:08.827197  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:13
+08/31/2026-23:52:08.827455  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:12000
+08/31/2026-23:52:08.822425  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3766
+08/31/2026-23:52:08.822935  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:5432
+08/31/2026-23:52:08.836554  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:2725
+08/31/2026-23:52:08.837165  [**] [1:3400020:2] POSSBL SCAN SHELL M-SPLOIT TCP [**] [Classification: A Network Trojan was detected] [Priority: 1] {TCP} 172.17.0.1:57352 -> 172.17.0.2:4444
+08/31/2026-23:52:08.837986  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3800
+08/31/2026-23:52:08.833384  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3324
+08/31/2026-23:52:08.834208  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1688
+08/31/2026-23:52:08.834559  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1106
+08/31/2026-23:52:08.824829  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1070
+08/31/2026-23:52:08.826907  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:19
+08/31/2026-23:52:08.835015  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3851
+08/31/2026-23:52:08.851751  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1068
+08/31/2026-23:52:08.836951  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:873
+08/31/2026-23:52:08.827012  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:18040
+08/31/2026-23:52:08.827372  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:27000
+08/31/2026-23:52:08.828329  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:14000
+08/31/2026-23:52:08.892106  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:8007
+08/31/2026-23:52:08.892428  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3030
+08/31/2026-23:52:08.893277  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:7004
+08/31/2026-23:52:08.893717  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:5989
+08/31/2026-23:52:08.894866  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:19801
+08/31/2026-23:52:08.895285  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:5988
+08/31/2026-23:52:08.839777  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:9917
+08/31/2026-23:52:08.852320  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:56737
+08/31/2026-23:52:08.853514  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:5922
+08/31/2026-23:52:08.838047  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1098
+08/31/2026-23:52:08.895695  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:1218
+08/31/2026-23:52:08.851574  [**] [1:3400002:2] POSSBL PORT SCAN (NMAP -sS) [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 172.17.0.1:57352 -> 172.17.0.2:3077
+08/31/2026-23:52:15.673802  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54238
+08/31/2026-23:52:16.377801  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 172.17.0.1:8 -> 172.17.0.2:9
+08/31/2026-23:52:16.380051  [**] [1:2200025:2] SURICATA ICMPv4 unknown code [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {ICMP} 172.17.0.2:0 -> 172.17.0.1:9
+08/31/2026-23:52:16.479390  [**] [1:9000011:1] CUSTOM NULL Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:44666 -> 172.17.0.2:80
+08/31/2026-23:52:16.607868  [**] [1:9000012:1] CUSTOM XMAS Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:44671 -> 172.17.0.2:1
+08/31/2026-23:52:16.633259  [**] [1:9000011:1] CUSTOM NULL Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:44666 -> 172.17.0.2:80
+08/31/2026-23:52:16.733988  [**] [1:9000011:1] CUSTOM NULL Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:44666 -> 172.17.0.2:80
+08/31/2026-23:52:16.834409  [**] [1:9000011:1] CUSTOM NULL Scan Detected [**] [Classification: Detection of a Network Scan] [Priority: 3] {TCP} 172.17.0.1:44666 -> 172.17.0.2:80
+08/31/2026-23:52:17.070102  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54242 -> 172.17.0.2:80
+08/31/2026-23:52:17.062579  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54272 -> 172.17.0.2:80
+08/31/2026-23:52:17.065045  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54272
+08/31/2026-23:52:17.052344  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54270 -> 172.17.0.2:80
+08/31/2026-23:52:17.055328  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54270
+08/31/2026-23:52:17.101150  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54248 -> 172.17.0.2:80
+08/31/2026-23:52:17.101258  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54248
+08/31/2026-23:52:17.138313  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54318 -> 172.17.0.2:80
+08/31/2026-23:52:17.138359  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54318
+08/31/2026-23:52:17.135397  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54306 -> 172.17.0.2:80
+08/31/2026-23:52:17.086323  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54266 -> 172.17.0.2:80
+08/31/2026-23:52:17.086617  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54266
+08/31/2026-23:52:17.131554  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54252 -> 172.17.0.2:80
+08/31/2026-23:52:17.131678  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54252
+08/31/2026-23:52:17.135483  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54306
+08/31/2026-23:52:17.201896  [**] [1:2260002:1] SURICATA Applayer Detect protocol only one direction [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.1:54354 -> 172.17.0.2:80
+08/31/2026-23:52:17.201896  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54354 -> 172.17.0.2:80
+08/31/2026-23:52:17.201937  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54354
+08/31/2026-23:52:17.118829  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54288 -> 172.17.0.2:80
+08/31/2026-23:52:17.132644  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54302
+08/31/2026-23:52:17.135095  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54314 -> 172.17.0.2:80
+08/31/2026-23:52:17.188343  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54322 -> 172.17.0.2:80
+08/31/2026-23:52:17.218855  [**] [1:2221010:1] SURICATA HTTP unable to match response to request [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54368
+08/31/2026-23:52:17.218855  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54368
+08/31/2026-23:52:17.269633  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54374 -> 172.17.0.2:80
+08/31/2026-23:52:17.321931  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54396 -> 172.17.0.2:80
+08/31/2026-23:52:17.321971  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54396
+08/31/2026-23:52:17.322558  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54410 -> 172.17.0.2:80
+08/31/2026-23:52:17.321632  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54382 -> 172.17.0.2:80
+08/31/2026-23:52:17.321701  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54382
+08/31/2026-23:52:17.356301  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54428 -> 172.17.0.2:80
+08/31/2026-23:52:17.356339  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54428
+08/31/2026-23:52:17.355499  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54426 -> 172.17.0.2:80
+08/31/2026-23:52:17.355549  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54426
+08/31/2026-23:52:17.341065  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54338 -> 172.17.0.2:80
+08/31/2026-23:52:17.366198  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54432 -> 172.17.0.2:80
+08/31/2026-23:52:17.366241  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54432
+08/31/2026-23:52:17.369254  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54444 -> 172.17.0.2:80
+08/31/2026-23:52:17.369293  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54444
+08/31/2026-23:52:17.372845  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54454 -> 172.17.0.2:80
+08/31/2026-23:52:17.341152  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54338
+08/31/2026-23:52:17.379302  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54470 -> 172.17.0.2:80
+08/31/2026-23:52:17.379372  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54470
+08/31/2026-23:52:17.381412  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54480 -> 172.17.0.2:80
+08/31/2026-23:52:17.381452  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54480
+08/31/2026-23:52:17.386517  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54482 -> 172.17.0.2:80
+08/31/2026-23:52:17.386638  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54482
+08/31/2026-23:52:17.393858  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54496 -> 172.17.0.2:80
+08/31/2026-23:52:17.393919  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54496
+08/31/2026-23:52:17.399555  [**] [1:2024364:5] ET SCAN Possible Nmap User-Agent Observed [**] [Classification: Web Application Attack] [Priority: 1] {TCP} 172.17.0.1:54508 -> 172.17.0.2:80
+08/31/2026-23:52:17.399594  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54508
+08/31/2026-23:52:17.408872  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54514
+08/31/2026-23:52:17.417064  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:54522
+08/31/2026-23:53:30.988551  [**] [1:2221036:1] SURICATA HTTP Response excessive header repetition [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 172.17.0.2:80 -> 172.17.0.1:33670
